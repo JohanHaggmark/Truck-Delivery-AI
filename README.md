@@ -5,7 +5,7 @@ An AI training to beat the BOT in Truck Delivery. Inpired by alpha zero, I wante
 Win/loss result example  
 ![](image.png)
   
-![].(AI_i_turodningsbaserat_spel_c17johha.pdf)
+
 
 <object data="https://github.com/JohanHaggmark/Truck-Delivery-AI/blob/master/AI_i_turodningsbaserat_spel_c17johha.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/JohanHaggmark/Truck-Delivery-AI/blob/master/AI_i_turodningsbaserat_spel_c17johha.pdf">
