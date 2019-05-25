@@ -6,3 +6,9 @@ Win/loss result example
 ![](image.png)
   
 ![].(AI_i_turodningsbaserat_spel_c17johha.pdf)
+
+<object data="https://github.com/JohanHaggmark/Truck-Delivery-AI/blob/master/AI_i_turodningsbaserat_spel_c17johha.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/JohanHaggmark/Truck-Delivery-AI/blob/master/AI_i_turodningsbaserat_spel_c17johha.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/JohanHaggmark/Truck-Delivery-AI/blob/master/AI_i_turodningsbaserat_spel_c17johha.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
